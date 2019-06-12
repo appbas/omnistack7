@@ -13,5 +13,8 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "description": "rocketseat - Omnistack 7.0",
+  "keywords": [],
+  "author": ""
 }
