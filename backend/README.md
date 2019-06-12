@@ -1,7 +1,7 @@
 # omnistack7
 rocketseat - Omnistack 7.0
 
-# depedências
+# dependências
 yarn add nodemon -D (biblioteca somente para desenvolvimento, utilizado somente para o tempo de desenvolvimento) - Para e iniciar o servidor quando salvamos os códigos desenvolvido.
 
 MongoDB Atlas - Banco de dados remoto mongodb
