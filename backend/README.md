@@ -11,3 +11,9 @@ MongoDB Atlas - Banco de dados remoto mongodb
 	
 ** Manipulação de imagens:
 	yarn add sharp
+
+** CORS - permite o frontend acessar o backend mesmo em domínios diferentes
+	yarn add cors
+
+** web socket
+	yarn add socket.io
