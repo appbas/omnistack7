@@ -31,6 +31,7 @@ module.exports = {
             image,
         });
 
+        // emitir informação a todos os usuário conectados na aplicação
         req.io.emit('post', post);
 
         return res.json(post);
