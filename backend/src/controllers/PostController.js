@@ -28,8 +28,11 @@ module.exports = {
             place,
             description,
             hashtags,
-            image,
+            image:fileName,
         });
+
+        console.log(fileName);
+        console.log(post);
 
         // emitir informação a todos os usuário conectados na aplicação
         req.io.emit('post', post);
