@@ -17,3 +17,6 @@ MongoDB Atlas - Banco de dados remoto mongodb
 
 ** web socket
 	yarn add socket.io
+
+# Criar padrão de desenvolvimento relacionado ao código a ser desenvolvido
+yarn add eslint -D (Só no ambiente de desenvolvimento - serve tanto para javascript, react e react-native)
